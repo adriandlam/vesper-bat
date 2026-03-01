@@ -6,6 +6,10 @@ Peppermint and orange flavored dark theme for [bat](https://github.com/sharkdp/b
 
 ![Preview](preview.png)
 
+### As fzf preview
+
+![fzf Preview](preview-fzf.png)
+
 ## Color Palette
 
 | Role               | Color     | Hex       |
