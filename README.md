@@ -14,14 +14,14 @@ Peppermint and orange flavored dark theme for [bat](https://github.com/sharkdp/b
 
 | Role               | Color     | Hex       |
 | ------------------- | --------- | --------- |
-| Background          | ![#101010](https://via.placeholder.com/12/101010/101010.png) | `#101010` |
-| Foreground          | ![#CCCCCC](https://via.placeholder.com/12/CCCCCC/CCCCCC.png) | `#CCCCCC` |
-| Strings             | ![#99FFE4](https://via.placeholder.com/12/99FFE4/99FFE4.png) | `#99FFE4` |
-| Keywords / Constants | ![#FFC799](https://via.placeholder.com/12/FFC799/FFC799.png) | `#FFC799` |
-| Comments            | ![#7D7D7D](https://via.placeholder.com/12/7D7D7D/7D7D7D.png) | `#7D7D7D` |
-| Errors              | ![#FF8080](https://via.placeholder.com/12/FF8080/FF8080.png) | `#FF8080` |
-| Operators           | ![#65737E](https://via.placeholder.com/12/65737E/65737E.png) | `#65737E` |
-| Functions           | ![#FFFFFF](https://via.placeholder.com/12/FFFFFF/FFFFFF.png) | `#FFFFFF` |
+| Background          | ![](https://img.shields.io/badge/%20-101010?style=flat-square&color=101010) | `#101010` |
+| Foreground          | ![](https://img.shields.io/badge/%20-CCCCCC?style=flat-square&color=CCCCCC) | `#CCCCCC` |
+| Strings             | ![](https://img.shields.io/badge/%20-99FFE4?style=flat-square&color=99FFE4) | `#99FFE4` |
+| Keywords / Constants | ![](https://img.shields.io/badge/%20-FFC799?style=flat-square&color=FFC799) | `#FFC799` |
+| Comments            | ![](https://img.shields.io/badge/%20-7D7D7D?style=flat-square&color=7D7D7D) | `#7D7D7D` |
+| Errors              | ![](https://img.shields.io/badge/%20-FF8080?style=flat-square&color=FF8080) | `#FF8080` |
+| Operators           | ![](https://img.shields.io/badge/%20-65737E?style=flat-square&color=65737E) | `#65737E` |
+| Functions           | ![](https://img.shields.io/badge/%20-FFFFFF?style=flat-square&color=FFFFFF) | `#FFFFFF` |
 
 ## Installation
 
