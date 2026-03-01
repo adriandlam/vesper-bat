@@ -4,6 +4,8 @@
 
 Peppermint and orange flavored dark theme for [bat](https://github.com/sharkdp/bat) and any TextMate-compatible app. Port of the [Vesper](https://github.com/raunofreiberg/vesper) VS Code theme by [Rauno Freiberg](https://github.com/raunofreiberg).
 
+![Preview](preview.png)
+
 ## Color Palette
 
 | Role               | Color     | Hex       |
